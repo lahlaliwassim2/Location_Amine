@@ -1,8 +1,8 @@
-# 🚘💼 **LOCATION AMINE - Plateforme de Location de Voitures**
+# 🚘💼 **LOCAUTO - Plateforme de Location de Voitures**
 
 ---
 
-Bienvenue sur **lOCATION AMINE**, une solution complète, moderne et intuitive pour la **location de voitures en ligne**. Que vous soyez une agence de location ou un utilisateur souhaitant réserver un véhicule, AutoRent est conçu pour faciliter l'expérience.
+Bienvenue sur **LOCAUTO**, une solution complète, moderne et intuitive pour la **location de voitures en ligne**. Que vous soyez une agence de location ou un utilisateur souhaitant réserver un véhicule, AutoRent est conçu pour faciliter l'expérience.
 
 ---
 
